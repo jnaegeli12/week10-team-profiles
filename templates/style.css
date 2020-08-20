@@ -1,0 +1,28 @@
+.team-area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 576px) {
+    .employee-card {
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .employee-card {
+        width: 50%;
+    }
+}
+
+@media (min-width: 992px) {
+    .employee-card {
+        width: 33%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .employee-card {
+        width: 33%;
+    }
+}
