@@ -4,14 +4,20 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Demonstration](#demonstration)
+  * [Future Functionality](#future)
   * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   ## Installation
-  Use `npm i` to install the dependencies.
+  Use `npm i` to install the dependencies. This app uses NPM Inquirer for prompt questions and NPM Jest for testing.
   ## Usage
-  To run this CLI application, type `node app.js` into the terminal. After answering all the prompts for each team member and ending with the "No, I'm done." option, the team.html file that displays your team's information will be creating in the "output" folder.
+  To run this CLI application, type `node app.js` into the terminal. After answering all the prompts for each team member and ending with the "No, I'm done." option, the team.html file that displays your team's information will be created in the "output" folder. Open in any browser or add the file to a website.
+  ## Demonstration
+
+  ## Future Functionality
+  This application would be most useful if a manager were able to append new team members instead of overwriting every time. This would require another question prompt and `fs.appendfile` rather than `fs.writefile`.
   ## License
   ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
@@ -20,7 +26,7 @@
   No contributions accepted at this time.
   https://github.com/firstcontributions/first-contributions
   ## Tests
-  Use `npm run test` to test the application.
+  After install the NPM Jest package, use `npm run test` to test the application.
   ## Questions?
   https://github.com/jnaegeli12
   
