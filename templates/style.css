@@ -1,3 +1,16 @@
+
+.engineer {
+    background-color: tomato;
+}
+
+.intern {
+    background-color: grey;
+}
+
+.manager {
+    background-color: teal;
+}
+
 .team-area {
     display: flex;
     flex-wrap: wrap;
