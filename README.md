@@ -4,7 +4,6 @@
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Demonstration](#demonstration)
   * [Future Functionality](#future)
   * [License](#license)
   * [Contributing](#contributing)
@@ -14,7 +13,6 @@
   Use `npm i` to install the dependencies. This app uses NPM Inquirer for prompt questions and NPM Jest for testing.
   ## Usage
   To run this CLI application, type `node app.js` into the terminal. After answering all the prompts for each team member and ending with the "No, I'm done." option, the team.html file that displays your team's information will be created in the "output" folder. Open in any browser or add the file to a website.
-  ## Demonstration
   ### Screencast of the application
   ![](Week-10-Screencast.gif)
   ### Screenshot of finished app
