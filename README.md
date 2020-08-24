@@ -16,7 +16,7 @@
   To run this CLI application, type `node app.js` into the terminal. After answering all the prompts for each team member and ending with the "No, I'm done." option, the team.html file that displays your team's information will be created in the "output" folder. Open in any browser or add the file to a website.
   ## Demonstration
   ### Screencast of the application
-  ![Video](https://drive.google.com/file/d/1jQIzHiW7PJqza0B8lw9d_irB79y4x0cI/view?usp=sharing)
+  ![](Week-10-Screencast.gif)
   ### Screenshot of finished app
   ![image](https://user-images.githubusercontent.com/62922022/91001016-7f71e780-e57f-11ea-8d62-1ce2108a4551.png)
   ### Screenshot of responsive design
